@@ -1,0 +1,16 @@
+
+h1{
+        
+    color: palevioletred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    color: lightcoral;
+    font-family: sans-serif;
+}
+p{
+    color: red;
+    margin-top: 55px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
